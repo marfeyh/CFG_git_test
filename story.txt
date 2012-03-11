@@ -1,1 +1,9 @@
 One day John was walking along the border between Iran and Iraq when he noticed a flash on the horizon. It looked like a falling star, but he wasn't sure.
+<<<<<<< HEAD
+=======
+markus sucks
+
+burce was here.
+
+bruce came back.
+>>>>>>> 7bb3e48... sad
