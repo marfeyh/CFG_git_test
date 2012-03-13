@@ -21,6 +21,7 @@ bruce is awesome lol
 >>>>>>> aa877cd... al
 =======
 bruce is awesome lo
+<<<<<<< HEAD
 >>>>>>> b027494... pap
 =======
 
@@ -29,3 +30,7 @@ bruce
 =======
 bruce is
 >>>>>>> 54a5bd6... etss
+=======
+
+new
+>>>>>>> 7377505... add
