@@ -10,5 +10,9 @@ bruce came back.
 >>>>>>> 7bb3e48... sad
 =======
 
+<<<<<<< HEAD
 bruce is awesome
 >>>>>>> b0f60aa... bruce 3rd
+=======
+bruce is awesome lol
+>>>>>>> aa877cd... al
