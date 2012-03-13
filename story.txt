@@ -13,6 +13,7 @@ bruce came back.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 bruce is awesome
 >>>>>>> b0f60aa... bruce 3rd
 =======
@@ -25,3 +26,6 @@ bruce is awesome lo
 
 bruce
 >>>>>>> dd94023... bruce
+=======
+bruce is
+>>>>>>> 54a5bd6... etss
