@@ -25,6 +25,7 @@ bruce is awesome lo
 >>>>>>> b027494... pap
 =======
 
+<<<<<<< HEAD
 bruce
 >>>>>>> dd94023... bruce
 =======
@@ -34,3 +35,6 @@ bruce is
 
 new
 >>>>>>> 7377505... add
+=======
+ shit
+>>>>>>> 4b1c819... as
