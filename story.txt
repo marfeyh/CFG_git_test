@@ -6,4 +6,9 @@ markus sucks
 burce was here.
 
 bruce came back.
+<<<<<<< HEAD
 >>>>>>> 7bb3e48... sad
+=======
+
+bruce is awesome
+>>>>>>> b0f60aa... bruce 3rd
