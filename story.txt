@@ -1,6 +1,14 @@
 One day John was walking along the border between Iran and Iraq when he noticed a flash on the horizon. It looked like a falling star, but he wasn't sure.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+
+|m|
+
+
+
+>>>>>>> 4a9ae68... test -Gokul
 markus sucks
 
 burce was here.
@@ -26,6 +34,7 @@ bruce is awesome lo
 =======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 bruce
 >>>>>>> dd94023... bruce
 =======
@@ -38,3 +47,6 @@ new
 =======
  shit
 >>>>>>> 4b1c819... as
+=======
+ shit
+>>>>>>> 4a9ae68... test -Gokul
