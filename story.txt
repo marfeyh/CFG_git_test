@@ -11,8 +11,12 @@ bruce came back.
 =======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 bruce is awesome
 >>>>>>> b0f60aa... bruce 3rd
 =======
 bruce is awesome lol
 >>>>>>> aa877cd... al
+=======
+bruce is awesome lo
+>>>>>>> b027494... pap
